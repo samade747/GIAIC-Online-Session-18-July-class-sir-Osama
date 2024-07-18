@@ -18,7 +18,7 @@ const student: Student[] = [
     },
     {
     id: 2,
-    name: "Mubashir",
+    name: "Maryam",
     age: 20,
     gender: "male",
     rollNo: 22002,
@@ -33,7 +33,7 @@ const student: Student[] = [
     },
     {
     id: 3,
-    name: "Afshan",
+    name: "afsheen",
     age: 20,
     gender: "female",
     rollNo: 22003,
@@ -48,7 +48,7 @@ const student: Student[] = [
     },
     {
     id: 4,
-    name: "Mubashir",
+    name: "Samada",
     age: 20,
     gender: "male",
     rollNo: 22002,
@@ -63,7 +63,7 @@ const student: Student[] = [
     },
     {
     id: 5,
-    name: "Afshan",
+    name: "mary",
     age: 20,
     gender: "female",
     rollNo: 22003,
