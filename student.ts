@@ -19,6 +19,12 @@ export const getAllStudents = () => {
 
     const onsiteStudents = getOnSiteStudents()
 
+
+    export const isStudentOnsite(rollNo: number) {
+        const result = onsiteStudents.find((student) => student.rollNo === rollNo)
+        return result
+    }
+
+
     console.log(`onsiteStudents: ${onsiteStudents}`)
 
-    
