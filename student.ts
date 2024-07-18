@@ -30,7 +30,7 @@ export const getAllStudents = () => {
       }
 
 
-
+      console.log(`isStudentOnSite: ${isStudentOnSite(22004)}`)
 
     console.log(`onsiteStudents: ${onsiteStudents}`)
 
