@@ -10,3 +10,4 @@ console.log(onsiteStudents);
 const singleStudent = getStudent(1);
 console.log(singleStudent)
 
+ 
